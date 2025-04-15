@@ -15,7 +15,6 @@ for optimal decision-making. To evaluate the effectiveness of various Blackjack 
 categorized into two groups: decision-focused (Profiles 1,2,3,5,6) and bet-sizing strategies (Profiles 4,5).
 
 ![image](https://github.com/user-attachments/assets/d1596f21-6fc2-48dd-8a0c-ceef052bfb13)
-![image](https://github.com/user-attachments/assets/e192e050-293e-4d5f-9cd7-39e915c10d90)
 
 Having done Monte Carlo Simulation on a basic stock portfolio, it was the perfect time for me to try my hand at Monte Carlo Reinforcement Learning for the Blackjack Project.
 Under the moniker of Player Profile 6, I explored 4 Monte Carlo Reinforcement Methods: 
@@ -23,7 +22,6 @@ Under the moniker of Player Profile 6, I explored 4 Monte Carlo Reinforcement Me
 <ol>2. Monte Carlo Every Visit</ol>
 <ol>3. Monte Carlo On Policy</ol>
 <ol>4. Monte Carlo Off Policy</ol>
-![image](https://github.com/user-attachments/assets/604b81c8-dfb5-4bda-a5a8-751367a7f640)
 
 <h2>Resources</h2
 
