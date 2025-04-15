@@ -8,10 +8,11 @@ For my exchange program at CITYUHK,
 <ul>Reinterpreting the game of Blackjack by contextualising it to the CNY version at home really gave us the most freedom to explore the gamut of strategies across various levels of modelling and simulation techniques</ul>
 <ul>Having done Monte Carlo Simulation on a basic stock portfolio, it was the perfect time for me to try my hand at Monte Carlo Reinforcement Learning for the Blackjack Project.</ul>
 
-<ul>Monte Carlo First Visit</ul>
-<ul>Monte Carlo Every Visit</ul>
-<ul>Monte Carlo On Policy</ul>
-<ul>Monte Carlo Off Policy</ul>
+Under the moniker of Player Profile 6, I explored 4 Monte Carlo Reinforcement Methods: 
+<ol>Monte Carlo First Visit</ol>
+<ol>Monte Carlo Every Visit</ol>
+<ol>Monte Carlo On Policy</ol>
+<ol>Monte Carlo Off Policy</ol>
 
 <ul>Resources</ul>
 
