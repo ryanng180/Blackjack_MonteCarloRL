@@ -23,7 +23,7 @@ Under the moniker of Player Profile 6, I explored 4 Monte Carlo Reinforcement Me
 <ol>3. Monte Carlo On Policy</ol>
 <ol>4. Monte Carlo Off Policy</ol>
 
-<h2>Resources</h2
+<h2>Resources</h2>
 
 <h2>Challenges</h2>
 
