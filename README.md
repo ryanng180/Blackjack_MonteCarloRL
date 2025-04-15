@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/332f83bf-2bcf-42ab-965a-5a573d63baf7)<h1>CNY Blackjack with Monte Carlo Reinforcement Learning</h1>
+<h1>CNY Blackjack with Monte Carlo Reinforcement Learning</h1>
 <h2>SDSC4026 Sys modelling and Simulation</h2>
 
 <ul>For my exchange program at CITYUHK, I wanted to try my hand at creating a General Golf Course Simulation Tool to Keep Delays Down and Throughput Up. But my groupmates thought it was too complex, it was fair becuase they were new to coding projects and I was also very much unsure of the math behind this really intriguing project. Will be adding this to my list of crazy project ideas</ul>
@@ -7,7 +7,6 @@
 <ul>Reinterpreting the game of Blackjack by contextualising it to the CNY version at home really gave us the most freedom to explore the gamut of strategies across various levels of modelling and simulation techniques</ul>
 <ul>Having done Monte Carlo Simulation on a basic stock portfolio, it was the perfect time for me to try my hand at Monte Carlo Reinforcement Learning for the Blackjack Project.</ul>
 
-![image](https://github.com/user-attachments/assets/604b81c8-dfb5-4bda-a5a8-751367a7f640)
 ![image](https://github.com/user-attachments/assets/d1596f21-6fc2-48dd-8a0c-ceef052bfb13)
 ![image](https://github.com/user-attachments/assets/e192e050-293e-4d5f-9cd7-39e915c10d90)
 
@@ -16,6 +15,7 @@ Under the moniker of Player Profile 6, I explored 4 Monte Carlo Reinforcement Me
 <ol>2. Monte Carlo Every Visit</ol>
 <ol>3. Monte Carlo On Policy</ol>
 <ol>4. Monte Carlo Off Policy</ol>
+![image](https://github.com/user-attachments/assets/604b81c8-dfb5-4bda-a5a8-751367a7f640)
 
 <h2>Resources</h2
 
